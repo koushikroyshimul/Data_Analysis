@@ -60,13 +60,22 @@ These visualizations provide an overview of the dataset composition and text cha
 
 ---
 ## Requirements
-The visualizations were created using Python and commonly used data analysis and visualization libraPython
 
-## Python
-Python 3.x
-## Required Libraries 
-pandas
-numpy
-matplotlib
-seaborn
-openpyxl
+The visualizations were created using Python and commonly used data analysis and visualization libraries.
+
+### Python
+
+- Python 3.x
+
+### Required Libraries
+
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `openpyxl`
+
+Install the required packages using:
+
+```bash
+pip install pandas numpy matplotlib seaborn openpyxl
